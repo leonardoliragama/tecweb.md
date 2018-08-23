@@ -1,0 +1,44 @@
+<h1></h1> = criaçao de titulo
+
+<title></title> = alteração do nome da pag
+
+<h2></h2> = criaçao do sub titulo do h1
+
+<h3></h3> = criaçao do sub titulo do h2 e assim vai
+ 
+<html> </html> = tudo que estiver dentro sera considerado um arquivo html
+
+<head></head> = configuraçoes comportamentais do site  aonde sera feita as configuraçoes do site
+
+<body></body> = tudo que estiver dentro dessa tag sera exibido no site
+
+<font color="blue"> </font> = define a cor da mensagem que esta dentro no caso essa será azul
+
+<b></b> = deixa tudo que esta dentro em negrito
+
+<i></i> = deixa tudo que esta dentro em italico
+
+<u></u> = deixa tudo que esta dentro sublinhado 
+
+<s></s> = deixa tudo que esta dentro taxado 
+
+<br> = pula uma linha
+
+<div></div> = divisao da pag 
+
+<hgroup></hgroup> = agrupaçao de titulos 
+
+<img src =" AQUI VAI O CAMINHO DA SUA IMAGEN"/> = COLOCAR UMA IMAGENS NO SITE
+
+<br/> = quebra de linha 
+
+<p></p> = serve para fazer um paragrafo 
+
+<a href="seu link ">nome q vai aparecer </a> = serve para acrescentar um link na sua pag 
+
+<ol></ol> = uma lista com valores 
+
+<li></li> = colocar o item n lista 
+
+ 
+
